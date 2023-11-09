@@ -1,0 +1,39 @@
+{
+  "global": {
+    "Base": {
+      "Gray-100": {
+        "value": "#eeeeee",
+        "type": "color"
+      },
+      "Gray-200": {
+        "value": "#dadada",
+        "type": "color"
+      },
+      "Gray-300": {
+        "value": "#bdbdbd",
+        "type": "color"
+      },
+      "Gray-400": {
+        "value": "#aaaaaa",
+        "type": "color"
+      }
+    },
+    "Especificos": {
+      "colour-bg-btn-disable": {
+        "value": "{Base.Gray-100}",
+        "type": "color",
+        "description": "Descripción"
+      },
+      "colour-bg-btn-desktop": {
+        "value": "{Base.Gray-200}",
+        "type": "color"
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
